@@ -1,0 +1,22 @@
+{
+  "name": "client-info-api",
+  "version": "1.0.0",
+  "description": "Express api responding request headers & client info for debug purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "node",
+    "ip",
+    "request",
+    "http"
+  ],
+  "author": "Johannes Weih",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
